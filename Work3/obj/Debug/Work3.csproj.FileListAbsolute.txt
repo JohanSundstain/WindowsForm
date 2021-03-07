@@ -1,0 +1,40 @@
+C:\Users\KopylovMA\source\repos\Work3\Work3\bin\Debug\Work3.exe.config
+C:\Users\KopylovMA\source\repos\Work3\Work3\bin\Debug\Work3.exe
+C:\Users\KopylovMA\source\repos\Work3\Work3\bin\Debug\Work3.pdb
+C:\Users\KopylovMA\source\repos\Work3\Work3\obj\Debug\Work3.csprojAssemblyReference.cache
+C:\Users\KopylovMA\source\repos\Work3\Work3\obj\Debug\Work3.Form1.resources
+C:\Users\KopylovMA\source\repos\Work3\Work3\obj\Debug\Work3.Properties.Resources.resources
+C:\Users\KopylovMA\source\repos\Work3\Work3\obj\Debug\Work3.csproj.GenerateResource.cache
+C:\Users\KopylovMA\source\repos\Work3\Work3\obj\Debug\Work3.csproj.CoreCompileInputs.cache
+C:\Users\KopylovMA\source\repos\Work3\Work3\obj\Debug\Work3.exe
+C:\Users\KopylovMA\source\repos\Work3\Work3\obj\Debug\Work3.pdb
+F:\Work3\Work3\bin\Debug\Work3.exe.config
+F:\Work3\Work3\bin\Debug\Work3.exe
+F:\Work3\Work3\bin\Debug\Work3.pdb
+F:\Work3\Work3\obj\Debug\Work3.csprojAssemblyReference.cache
+F:\Work3\Work3\obj\Debug\Work3.Form1.resources
+F:\Work3\Work3\obj\Debug\Work3.Properties.Resources.resources
+F:\Work3\Work3\obj\Debug\Work3.csproj.GenerateResource.cache
+F:\Work3\Work3\obj\Debug\Work3.csproj.CoreCompileInputs.cache
+F:\Work3\Work3\obj\Debug\Work3.exe
+F:\Work3\Work3\obj\Debug\Work3.pdb
+C:\Users\Johan\source\repos\Work3\Work3\obj\Debug\Work3.csprojAssemblyReference.cache
+C:\Users\Johan\source\repos\Work3\Work3\obj\Debug\Work3.Form1.resources
+C:\Users\Johan\source\repos\Work3\Work3\obj\Debug\Work3.Properties.Resources.resources
+C:\Users\Johan\source\repos\Work3\Work3\obj\Debug\Work3.csproj.GenerateResource.cache
+C:\Users\Johan\source\repos\Work3\Work3\obj\Debug\Work3.csproj.CoreCompileInputs.cache
+C:\Users\Johan\source\repos\Work3\Work3\obj\Debug\Work3.exe
+C:\Users\Johan\source\repos\Work3\Work3\obj\Debug\Work3.pdb
+C:\Users\Johan\source\repos\Work3\Work3\bin\Debug\Work3.exe.config
+C:\Users\Johan\source\repos\Work3\Work3\bin\Debug\Work3.exe
+C:\Users\Johan\source\repos\Work3\Work3\bin\Debug\Work3.pdb
+E:\Копылов Матвей 907са дз2\Work3\Work3\bin\Debug\Work3.exe.config
+E:\Копылов Матвей 907са дз2\Work3\Work3\bin\Debug\Work3.exe
+E:\Копылов Матвей 907са дз2\Work3\Work3\bin\Debug\Work3.pdb
+E:\Копылов Матвей 907са дз2\Work3\Work3\obj\Debug\Work3.csprojAssemblyReference.cache
+E:\Копылов Матвей 907са дз2\Work3\Work3\obj\Debug\Work3.Form1.resources
+E:\Копылов Матвей 907са дз2\Work3\Work3\obj\Debug\Work3.Properties.Resources.resources
+E:\Копылов Матвей 907са дз2\Work3\Work3\obj\Debug\Work3.csproj.GenerateResource.cache
+E:\Копылов Матвей 907са дз2\Work3\Work3\obj\Debug\Work3.csproj.CoreCompileInputs.cache
+E:\Копылов Матвей 907са дз2\Work3\Work3\obj\Debug\Work3.exe
+E:\Копылов Матвей 907са дз2\Work3\Work3\obj\Debug\Work3.pdb
